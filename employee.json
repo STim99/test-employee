@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Leanne Graham",
+        "email": "Sincere@april.biz",
+        "address": "Seaside Horse",
+        "phone": "1-770-736-8031",
+        "rate": 20
+    },
+    {
+        "id": 2,
+        "name": "Delphine Graham",
+        "email": "Delphine@april.biz",
+        "address": "Dayna Park",
+        "phone": "1-770-736-2130",
+        "rate": 30
+    },
+    {
+        "id": 3,
+        "name": "Clementina  Graham",
+        "email": "Clementina@april.biz",
+        "address": "Kattie Turnpike",
+        "phone": "1-770-736-5033",
+        "rate": 25
+    }
+]
